@@ -1,0 +1,1 @@
+np.where(condition, x, y)

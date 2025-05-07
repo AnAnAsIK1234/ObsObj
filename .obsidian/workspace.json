@@ -1,0 +1,339 @@
+{
+  "main": {
+    "id": "fc5f785ba0e4e4a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "de38da3c51367b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5f5b7dd0b4779f1",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {},
+              "icon": "calendar-glyph",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "3d5cc37a1f02172f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Графики Matplotlib/Несколько графиков на одной картинке.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Несколько графиков на одной картинке"
+            }
+          },
+          {
+            "id": "fda4004db9d50ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML hse/Модели без учителя/Кластеризация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Кластеризация"
+            }
+          },
+          {
+            "id": "8bb87f5909516c78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "numpy/np.matrix.ravel() - вытягивает матрицу в вектор.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "np.matrix.ravel() - вытягивает матрицу в вектор"
+            }
+          },
+          {
+            "id": "d7f195495cc660dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с colab + pandas/os.walk - проход по папкам.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "os.walk - проход по папкам"
+            }
+          },
+          {
+            "id": "21c029669122e9a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "numpy/np.stack.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "np.stack"
+            }
+          },
+          {
+            "id": "62c21cfb05043996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML hse/Линейные модели классификации/CE(кросс энтропия).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CE(кросс энтропия)"
+            }
+          },
+          {
+            "id": "8ad5f220f3055ab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1)"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a438769b1c8c80eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f17fc3438c584db3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc85e9220ce60943",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8574e1d752603b18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1deb6383012859d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf8d86e3cd1c8dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1285b5e68d087348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6771e485f193649d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "numpy/покомпонетное умножение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for покомпонетное умножение"
+            }
+          },
+          {
+            "id": "4095a047baa2fd92",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "numpy/покомпонетное умножение.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from покомпонетное умножение"
+            }
+          },
+          {
+            "id": "decc70bc9d1f83db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "97c30747694aeab9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1)"
+            }
+          },
+          {
+            "id": "fd2161e897cde0ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false
+    }
+  },
+  "active": "bc85e9220ce60943",
+  "lastOpenFiles": [
+    "регулярные выражения - re/re.md",
+    "Excalidraw/Pasted image 20250507101715.png",
+    "Excalidraw/Pasted image 20250507101651.png",
+    "Excalidraw/Pasted image 20250507101641.png",
+    "Excalidraw/Pasted image 20250507101625.png",
+    "Excalidraw/Untitled 1.ipynb",
+    "Excalidraw/Untitled.ipynb",
+    "ML hse/Композиция моделей/Стекинг.md",
+    "регулярные выражения - re",
+    "Работа с colab + pandas/os.walk - проход по папкам.md",
+    "Работа с colab + pandas/from google.colab import drive.md",
+    "Работа с colab + pandas/idxmax() - индекс максимального или минимального значения в датасете.md",
+    "Работа с colab + pandas/count + groupby.md",
+    "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
+    "Работа с colab + pandas/agg - применение нескольких функций сразу.md",
+    "Работа с colab + pandas/!ls.md",
+    "ML hse/Композиция моделей/XGBoost.md",
+    "ML hse/Композиция моделей/Bagging (Bootstrap AGGregatING).md",
+    "ML hse/Композиция моделей/общее.md",
+    "ML hse/Композиция моделей/Случайный лес.md",
+    "Графики Matplotlib/нормальный туториал.md",
+    "Графики Matplotlib/прикольный график для ошибки от времени.md",
+    "Работа с colab + pandas/wget - утилита для скачивания файлов с интернета через командную строку.md",
+    "Работа с colab + pandas/mkdir - создание директрии.md",
+    "Работа с colab + pandas/tar - разархивация.md",
+    "pandas/Untitled.md",
+    "Работа с colab + pandas/rename - как изменить имена столбцов.md",
+    "python дефолтные штуки/макс кастомный.md",
+    "python дефолтные штуки/ключ + значения словарь.md",
+    "Графики Matplotlib/Подпись осей.md",
+    "Графики Matplotlib/Размер шрифта.md",
+    "Графики Matplotlib/plot.md",
+    "Excalidraw/Pasted image 20250310213159.png",
+    "Excalidraw/Pasted image 20250310205925.png",
+    "Excalidraw/Pasted image 20250310201423.png",
+    "Excalidraw/Pasted image 20250310200217.png",
+    "Excalidraw/Pasted image 20250308181233.png",
+    "Excalidraw/Pasted image 20250308181229.png",
+    "чмы",
+    "ММП",
+    "torch",
+    "python дефолтные штуки",
+    "pandas",
+    "numpy",
+    "Графики Matplotlib",
+    "Untitled.canvas",
+    "Воронцов.canvas",
+    "МС/Untitled.canvas"
+  ]
+}
