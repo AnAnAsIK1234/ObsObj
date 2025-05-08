@@ -13,8 +13,8 @@
             "state": {
               "type": "full-calendar-view",
               "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
+                "file": "Работа с colab + pandas/mkdir - создание директрии.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1)"
+              "title": "mkdir - создание директрии"
             }
           }
         ],
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
+                "file": "Работа с colab + pandas/mkdir - создание директрии.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1)"
+              "title": "Outline of mkdir - создание директрии"
             }
           },
           {
@@ -262,8 +262,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -287,6 +287,12 @@
   },
   "active": "bc85e9220ce60943",
   "lastOpenFiles": [
+    "проверка",
+    "Работа с colab + pandas/count + groupby.md",
+    "Работа с colab + pandas/agg - применение нескольких функций сразу.md",
+    "Работа с colab + pandas/!ls.md",
+    "Дни рождения/2025-02-13 годовщина.md",
+    "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
     "регулярные выражения - re/re.md",
     "Excalidraw/Pasted image 20250507101715.png",
     "Excalidraw/Pasted image 20250507101651.png",
@@ -299,10 +305,6 @@
     "Работа с colab + pandas/os.walk - проход по папкам.md",
     "Работа с colab + pandas/from google.colab import drive.md",
     "Работа с colab + pandas/idxmax() - индекс максимального или минимального значения в датасете.md",
-    "Работа с colab + pandas/count + groupby.md",
-    "Работа с colab + pandas/apply - если применяет к серии, то применяется ко всем её элементам, если к датафрейму, то к каждму столбцу (axis=0) или строке (axis=1).md",
-    "Работа с colab + pandas/agg - применение нескольких функций сразу.md",
-    "Работа с colab + pandas/!ls.md",
     "ML hse/Композиция моделей/XGBoost.md",
     "ML hse/Композиция моделей/Bagging (Bootstrap AGGregatING).md",
     "ML hse/Композиция моделей/общее.md",
@@ -318,7 +320,6 @@
     "python дефолтные штуки/ключ + значения словарь.md",
     "Графики Matplotlib/Подпись осей.md",
     "Графики Matplotlib/Размер шрифта.md",
-    "Графики Matplotlib/plot.md",
     "Excalidraw/Pasted image 20250310213159.png",
     "Excalidraw/Pasted image 20250310205925.png",
     "Excalidraw/Pasted image 20250310201423.png",
