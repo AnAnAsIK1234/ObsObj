@@ -117,12 +117,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа с colab + pandas/mkdir - создание директрии.md",
+                "file": "проверка/васап.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mkdir - создание директрии"
+              "title": "васап"
             }
           }
         ],
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа с colab + pandas/mkdir - создание директрии.md",
+                "file": "проверка/васап.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mkdir - создание директрии"
+              "title": "Outline of васап"
             }
           },
           {
@@ -285,8 +285,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bc85e9220ce60943",
+  "active": "8ad5f220f3055ab8",
   "lastOpenFiles": [
+    "Работа с colab + pandas/mkdir - создание директрии.md",
+    "проверка/васап.md",
     "проверка",
     "Работа с colab + pandas/count + groupby.md",
     "Работа с colab + pandas/agg - применение нескольких функций сразу.md",
@@ -312,7 +314,6 @@
     "Графики Matplotlib/нормальный туториал.md",
     "Графики Matplotlib/прикольный график для ошибки от времени.md",
     "Работа с colab + pandas/wget - утилита для скачивания файлов с интернета через командную строку.md",
-    "Работа с colab + pandas/mkdir - создание директрии.md",
     "Работа с colab + pandas/tar - разархивация.md",
     "pandas/Untitled.md",
     "Работа с colab + pandas/rename - как изменить имена столбцов.md",
@@ -332,7 +333,6 @@
     "python дефолтные штуки",
     "pandas",
     "numpy",
-    "Графики Matplotlib",
     "Untitled.canvas",
     "Воронцов.canvas",
     "МС/Untitled.canvas"
